@@ -1,7 +1,7 @@
 /*This codespace contains registers with HET registry declarations and initializations */
 /* code simulated and written on Code Composer Studio by Texas Instruments 
 for TMS570 series microcontrollers */
-// Author: Abin S Manoj
+
 
 #define HETGCR (*(volatile unsigned int *) 0xFFF7B800UL)
 #define HET_DIR (*(volatile unsigned int *) 0xFFF7B84CUL)
